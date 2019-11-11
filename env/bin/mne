@@ -1,0 +1,5 @@
+#!/Users/victorli/Desktop/BrainGame/Data/env/bin/python3
+# -*- coding: utf-8 -*-
+
+import mne
+mne.commands.utils.main()
